@@ -8,4 +8,4 @@
 
 ## Project 1 迷宫游戏 Maze
 
-[main.c](https://github.com/vice2city/HomeWork/blob/master/Maze/main.c)
+[main.cpp](https://github.com/vice2city/HomeWork/blob/master/Maze/main.cpp)
